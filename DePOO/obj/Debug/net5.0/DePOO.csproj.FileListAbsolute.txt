@@ -1,0 +1,16 @@
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.csproj.AssemblyReference.cache
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.AssemblyInfoInputs.cache
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.AssemblyInfo.cs
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.csproj.CoreCompileInputs.cache
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\bin\Debug\net5.0\DePOO.exe
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\bin\Debug\net5.0\DePOO.deps.json
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\bin\Debug\net5.0\DePOO.runtimeconfig.json
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\bin\Debug\net5.0\DePOO.runtimeconfig.dev.json
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\bin\Debug\net5.0\DePOO.dll
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\bin\Debug\net5.0\ref\DePOO.dll
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\bin\Debug\net5.0\DePOO.pdb
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.dll
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\ref\DePOO.dll
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.pdb
+C:\Users\evach\OneDrive\Bureau\DePOO\DePOO\obj\Debug\net5.0\DePOO.genruntimeconfig.cache
